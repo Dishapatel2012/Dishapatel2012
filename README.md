@@ -17,11 +17,11 @@ I am looking for internship opportunities where I can apply my skills, learn fro
 ---
 
 ## 🚀 Skills
-HTML | CSS | JavaScript | React | Python | Django | UI/UX | WordPress
+HTML | CSS | JavaScript | React | Tailwaind | WordPress
 
 ---
 
 ## 🛠️ Tools
-VS Code | Git | GitHub | Bootstrap
+VS Code | Git | GitHub | Bootstrap | Canva
 
 ---
