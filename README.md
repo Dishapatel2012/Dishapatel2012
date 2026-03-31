@@ -11,7 +11,7 @@
 - 🔭 Working on E-commerce Web Projects
 - 🌱 Learning Full Stack Development
 - 🎯 Goal: Become a Professional Software Developer
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: pateldishap2012@gmail.com
 
 ---
 
