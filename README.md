@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Disha Patel
 
-<!--
-**Dishapatel2012/Dishapatel2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Full Stack Learner  
+🎓 BCA Graduate  
+🌱 Currently learning React & Django  
+🚀 Passionate about Web Development & UI/UX Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔭 Working on E-commerce Web Projects
+- 🌱 Learning Full Stack Development
+- 🎯 Goal: Become a Professional Software Developer
+- 📫 Email: yourmail@gmail.com
+
+---
+
+## 🚀 Skills
+HTML | CSS | JavaScript | React | Python | Django | UI/UX | WordPress
+
+---
+
+## 🛠️ Tools
+VS Code | Git | GitHub | Bootstrap
+
+---
