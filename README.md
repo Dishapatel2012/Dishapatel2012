@@ -2,7 +2,7 @@
 
 💻 Frontend Developer | Full Stack Learner  
 🎓 BCA Graduate  
-🌱 Currently learning React & Django  
+🌱 Currently learning React 
 🚀 Passionate about Web Development & UI/UX Design
 
 ---
